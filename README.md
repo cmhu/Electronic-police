@@ -15,20 +15,20 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/1.jpg" width="384" height="536" /> </td>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/1-1.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/5.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/5-1.jpg" width="384" height="536" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/2.jpg" width="384" height="536" /> </td>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/2-1.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/6.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/6-1.jpg" width="384" height="536" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/3.jpg" width="384" height="536" /> </td>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/3-1.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/7.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/7-1.jpg" width="384" height="536" /> </td>
   </tr>     
     <tr>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/4.jpg" width="384" height="536" /> </td>
-    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/4-1.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/8.jpg" width="384" height="536" /> </td>
+    <td> <img src="https://github.com/cmhu/Electronic-police/blob/master/pic/8-1.jpg" width="384" height="536" /> </td>
   </tr>  
 </table>
 
